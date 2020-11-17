@@ -12,3 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 Hey this is a collab
 
 Nice, here's my edit 
+
+This edit proves our initial assumption that Github works well
