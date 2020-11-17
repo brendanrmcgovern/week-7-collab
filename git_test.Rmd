@@ -16,3 +16,5 @@ Nice, here's my edit
 This edit proves our initial assumption that Github works well
 
 indubitably 
+
+I moved this .Rproj to a new folder and want to make sure this still links to Github
